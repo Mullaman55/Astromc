@@ -1,5 +1,5 @@
 package AstromcShop;
 
 public class astromcshop_main {
-System.out.println("random");
+System.out.println("THIS IS MULLA");
 }
