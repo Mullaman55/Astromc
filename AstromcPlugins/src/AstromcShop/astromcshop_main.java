@@ -1,5 +1,5 @@
 package AstromcShop;
 
 public class astromcshop_main {
-System.out.println("edit from the website 3");
+System.out.println("edit from the website 12655");
 }
