@@ -2,6 +2,8 @@ package AstromcShop;
 
 // dont forget to comment
 public class astromcshop_main {
-	//HELLO
+	
 System.out.println("THIS IS MULLA");
 System.out.println("THIS IS MON"); //comment
+
+//nigga
